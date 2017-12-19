@@ -1,3 +1,6 @@
+#Author - Ansh Thayil
+#Advent of Code 2015 Day 16 - Aunt Sue
+
 file = open("inputday16.txt")
 text = file.readlines()
 
